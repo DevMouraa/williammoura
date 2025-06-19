@@ -43,7 +43,7 @@ Minha visão para o futuro inclui:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/devmouraa)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/williamjmouraa/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:william.jose@example.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:williamjose18n@gmail.com)
 
 ---
 
